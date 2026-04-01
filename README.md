@@ -28,7 +28,6 @@ xcodebuild -downloadComponent MetalToolchain
 | `03_inspect.py` | Shows model stats — params, layers, quantization |
 | `04_generate.py` | Basic text generation (no streaming) |
 | `05_stream.py` | Streaming generation with tok/s |
-| `06_chat.py` | Interactive chat loop |
 
 ## Model Details
 
